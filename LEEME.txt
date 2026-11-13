@@ -1,0 +1,16 @@
+YOGA ESCAPE · DELTA DE L'EBRE — web lista para publicar
+
+Cómo publicarla en Netlify (gratis, 1 minuto):
+1. Entra en https://app.netlify.com/drop (crea una cuenta gratuita si te lo pide).
+2. Arrastra ESTA carpeta entera (web-yoga-escape) a la página.
+3. Netlify te da un enlace tipo https://nombre-aleatorio.netlify.app → ese es el que envías a Sonia.
+   (En "Site configuration" puedes cambiar el nombre del enlace.)
+
+Formulario de reserva:
+- En Netlify funciona solo: cada envío aparece en tu panel, en "Forms" → "reserva".
+- Para recibirlos por email: Forms → Form notifications → Add notification → Email.
+- Si la publicas en otro sitio (Vercel, GitHub Pages), el formulario no enviará nada hasta conectarlo a otro servicio.
+
+Contenido:
+- index.html  → la página
+- assets/     → fotos (formato .webp ligero) y los 2 vídeos
